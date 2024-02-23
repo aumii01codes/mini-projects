@@ -1,4 +1,6 @@
-# Mini Projects
+# Mini projects
 
 Lists of mini projects:
-- 
+- proj1.py : CREATING A SHOPPING CART USING PYTHON
+- proj2.py : CREATING AN INVENTORY MANAGEMENT SYSTEM USING PYTHON
+- proj3.py : ROCK PAPER SCISSOR CUT GAME USING PYTHON
